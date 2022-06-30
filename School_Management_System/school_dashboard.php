@@ -66,7 +66,7 @@
 				</tr>
 				<tr>
 					<td>
-						<a href="/school-management-system/entryfrom.php">Entry From</a>
+						<a href="/School_Management_System/entryfrom.php">Entry From</a>
 					</td>
 				</tr>
 			</table>
