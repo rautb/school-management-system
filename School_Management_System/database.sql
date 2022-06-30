@@ -179,7 +179,7 @@ CREATE TABLE `school` (
 --
 
 INSERT INTO `school` (`sch_name`, `sch_code`, `sch_address`, `sch_type`, `password`, `id`) VALUES
-('Dwdw', '001', 'wdfqdfgh', 'xxx', '1', 1),
+('Bhs', '001', 'Bali', 'Boy\'s', '1', 1),
 ('abc', '002', 'def', 'efg', '123', 2),
 ('abc', '003', 'def', 'efg', '123', 3),
 ('aaa', '007', 'aaasdfghj', 'aaa', 'a', 4),
