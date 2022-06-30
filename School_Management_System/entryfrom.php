@@ -24,7 +24,7 @@
 ?>
 
 <div class="container">
-    <form action="/sms_project/formAddData.php" method="POST" id="entryForm">
+    <form action="/School_Management_System/formAddData.php" method="POST" id="entryForm">
 <!-- <form action="/sms_project/test.php" method="POST" id="entryForm"> -->
 
     <div class="row my-4">
